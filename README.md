@@ -6,10 +6,11 @@ Mục tiêu nghiên cứu: Đánh giá tác động của các yếu tố đến
 
 ## 📊 Dữ liệu và phương pháp nghiên cứu
 - Dự án tiếp cận trên bộ dữ liệu VHLSS 2018 và VHLSS 2020.
-- Nghiên cứu sử dụng phương pháp định lượng (**hồi quy binary logistic**) cụ thể như sau:
+- Nghiên cứu sử dụng phương pháp định tính và định lượng để phân tích (**thống kê mô tả và hồi quy logistic**).
+- Phương trình **hồi quy binary logistic**cụ thể như sau:
   <img width="946" height="163" alt="image" src="https://github.com/user-attachments/assets/014899e3-0636-42e3-85c5-530221b9b470" />
   Trong đó:
-  - Pi: xác suất hộ gia đình vay tín dụng chính thức 
+- Pi: xác suất hộ gia đình vay tín dụng chính thức 
 - 1	-  Pi: xác suất hộ gia đình không vay tín dụng chính thức 
 - B0: hằng số hồi quy
 - B1, B2, … B10: hệ số hồi quy của các biến độc lập
@@ -28,8 +29,7 @@ Mục tiêu nghiên cứu: Đánh giá tác động của các yếu tố đến
 ---
 
 ## 🔑 Kết quả nghiên cứu
-•	Nghiên cứu phân tích dữ liệu VHLSS 2018 & 2020 cho thấy nhiều yếu tố
-•	ảnh hưởng đến khả năng tiếp cận tín dụng chính thức của hộ gia đình Việt Nam.
+Nghiên cứu phân tích dữ liệu VHLSS 2018 & 2020 cho thấy nhiều yếu tố ảnh hưởng đến khả năng tiếp cận tín dụng chính thức của hộ gia đình Việt Nam.
 •	Giới tính quan trọng năm 2018 (nam dễ vay hơn), nhưng mất ý nghĩa vào 2020 nhờ chính sách hỗ trợ tín dụng công bằng.
 •	Trình độ học vấn cao giúp tăng khả năng vay vốn, đặc biệt trong bối cảnh khó khăn như COVID-19.
 •	Năm 2018, hộ nông thôn dễ tiếp cận tín dụng hơn, nhưng đến 2020, hộ thành thị chiếm ưu thế nhờ thu nhập ổn định và tài sản thế chấp.
