@@ -1,7 +1,9 @@
 # Credit-Analysis-Project
 
 ## 📌 Giới thiệu 
-Mục tiêu nghiên cứu: Đánh giá tác động của các yếu tố đến khả năng tiếp cận tín dụng chính thức của hộ gia đình. Và đề xuất chính sách để cải thiện cơ hội tiếp cận tín dụng chính thức của hộ gia đình tại các khu vực thành thị và nông thôn.
+
+Mục tiêu nghiên cứu: Đánh giá tác động của các yếu tố đến khả năng tiếp cận tín dụng của hộ gia đình ở Việt Nam. Từ đó đưa ra đề xuất hàm ý chính sách để cải thiện cơ hội tiếp cận tín dụng chính thức của các hộ gia đình.
+
 ---
 
 ## 📊 Dữ liệu và phương pháp nghiên cứu
@@ -29,22 +31,26 @@ Mục tiêu nghiên cứu: Đánh giá tác động của các yếu tố đến
 ---
 
 ## 🔑 Kết quả nghiên cứu
+
 Nghiên cứu phân tích dữ liệu VHLSS 2018 & 2020 cho thấy nhiều yếu tố ảnh hưởng đến khả năng tiếp cận tín dụng chính thức của hộ gia đình Việt Nam.
-•	Giới tính quan trọng năm 2018 (nam dễ vay hơn), nhưng mất ý nghĩa vào 2020 nhờ chính sách hỗ trợ tín dụng công bằng.
-•	Trình độ học vấn cao giúp tăng khả năng vay vốn, đặc biệt trong bối cảnh khó khăn như COVID-19.
-•	Năm 2018, hộ nông thôn dễ tiếp cận tín dụng hơn, nhưng đến 2020, hộ thành thị chiếm ưu thế nhờ thu nhập ổn định và tài sản thế chấp.
-•	Nhóm giàu vay vốn dễ hơn, song khoảng cách với nhóm nghèo đã thu hẹp vào 2020 nhờ chính sách hỗ trợ.
-•	Tài sản thế chấp và tín dụng phi chính thức thay đổi vai trò: 2020 các tổ chức tín dụng thận trọng hơn, nhưng cũng linh hoạt hơn với hộ dùng tín dụng phi chính thức.
+- Giới tính quan trọng năm 2018 (nam dễ vay hơn), nhưng mất ý nghĩa vào 2020 nhờ chính sách hỗ trợ tín dụng công bằng.
+- Trình độ học vấn cao giúp tăng khả năng vay vốn, đặc biệt trong bối cảnh khó khăn như COVID-19.
+- Năm 2018, hộ nông thôn dễ tiếp cận tín dụng hơn, nhưng đến 2020, hộ thành thị chiếm ưu thế nhờ thu nhập ổn định và tài sản thế chấp.
+- Nhóm giàu vay vốn dễ hơn, song khoảng cách với nhóm nghèo đã thu hẹp vào 2020 nhờ chính sách hỗ trợ.
+- Tài sản thế chấp và tín dụng phi chính thức thay đổi vai trò: 2020 các tổ chức tín dụng thận trọng hơn, nhưng cũng linh hoạt hơn với hộ dùng tín dụng phi chính thức.
 
 ---
 
 ## Hàm ý chính sách
-•	Tiếp tục mở rộng tín dụng không phân biệt giới tính, đảm bảo cơ hội vay vốn công bằng cho cả nam và nữ.
-•	Triển khai giáo dục tài chính cộng đồng, đặc biệt cho nhóm học vấn thấp và vùng sâu, vùng xa.
-•	Mở rộng mạng lưới ngân hàng tại nông thôn, cung cấp sản phẩm phù hợp với nhu cầu sản xuất và tiêu dùng.
-•	Phát triển tín dụng ưu đãi cho nhóm thu nhập thấp, lãi suất thấp, linh hoạt, kết hợp bảo lãnh tín dụng và hỗ trợ FinTech.
-•	Linh hoạt hơn trong đánh giá tài sản thế chấp, cho phép các hình thức bảo lãnh hoặc cơ chế vay không cần thế chấp.
-•	Các giải pháp trên giúp nâng cao tiếp cận tín dụng, thúc đẩy phát triển kinh tế bền vững và hỗ trợ nhóm yếu thế.
+
+- Tiếp tục mở rộng tín dụng không phân biệt giới tính, đảm bảo cơ hội vay vốn công bằng cho cả nam và nữ.
+- Triển khai giáo dục tài chính cộng đồng, đặc biệt cho nhóm học vấn thấp và vùng sâu, vùng xa.
+- Mở rộng mạng lưới ngân hàng tại nông thôn, cung cấp sản phẩm phù hợp với nhu cầu sản xuất và tiêu dùng.
+- Phát triển tín dụng ưu đãi cho nhóm thu nhập thấp, lãi suất thấp, linh hoạt, kết hợp bảo lãnh tín dụng và hỗ trợ FinTech.
+- Linh hoạt hơn trong đánh giá tài sản thế chấp, cho phép các hình thức bảo lãnh hoặc cơ chế vay không cần thế chấp.
+- Các giải pháp trên giúp nâng cao tiếp cận tín dụng, thúc đẩy phát triển kinh tế bền vững và hỗ trợ nhóm yếu thế.
+
+---
 
 
 
