@@ -52,16 +52,18 @@ Nghiên cứu phân tích dữ liệu VHLSS 2018 & 2020 cho thấy nhiều yếu
 ---
 
 ## Demo kết quả
-**Data 2018**
+**1. Data 2018**
 
 <img width="886" height="865" alt="image" src="https://github.com/user-attachments/assets/dc90d140-4c43-4f28-a50e-d10cc2053a55" />
+
 <img width="886" height="687" alt="image" src="https://github.com/user-attachments/assets/aeafc529-d9c4-4953-931e-f2c657ba6f23" />
 
 ---
 
-**Data 2020**
+**2. Data 2020**
 
 <img width="886" height="856" alt="image" src="https://github.com/user-attachments/assets/d087c03d-a650-4f1c-9fbd-6004f5ca0487" />
+
 <img width="886" height="694" alt="image" src="https://github.com/user-attachments/assets/0f70dd47-5128-4549-9143-e4db8ff807f3" />
 
 
