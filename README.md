@@ -1,12 +1,11 @@
-# Credit-Analysis-Project
-
-## 📌 Giới thiệu 
+# Báo cáo Phân tích Dữ liệu tín dụng của hộ gia đình 
+## Giới thiệu 
 
 Mục tiêu nghiên cứu: Đánh giá tác động của các yếu tố đến khả năng tiếp cận tín dụng của hộ gia đình ở Việt Nam. Từ đó đưa ra đề xuất hàm ý chính sách để cải thiện cơ hội tiếp cận tín dụng chính thức của các hộ gia đình.
 
 ---
 
-## 📊 Dữ liệu và phương pháp nghiên cứu
+## Dữ liệu và phương pháp nghiên cứu
 - Dự án tiếp cận trên bộ dữ liệu VHLSS 2018 và VHLSS 2020.
 - Nghiên cứu sử dụng phương pháp định tính và định lượng để phân tích (**thống kê mô tả và hồi quy logistic**).
 - Phương trình **hồi quy binary logistic**cụ thể như sau:
@@ -30,7 +29,7 @@ Mục tiêu nghiên cứu: Đánh giá tác động của các yếu tố đến
   
 ---
 
-## 🔑 Kết quả nghiên cứu
+## Kết quả nghiên cứu
 
 Nghiên cứu phân tích dữ liệu VHLSS 2018 & 2020 cho thấy nhiều yếu tố ảnh hưởng đến khả năng tiếp cận tín dụng chính thức của hộ gia đình Việt Nam.
 - Giới tính quan trọng năm 2018 (nam dễ vay hơn), nhưng mất ý nghĩa vào 2020 nhờ chính sách hỗ trợ tín dụng công bằng.
@@ -51,6 +50,18 @@ Nghiên cứu phân tích dữ liệu VHLSS 2018 & 2020 cho thấy nhiều yếu
 - Các giải pháp trên giúp nâng cao tiếp cận tín dụng, thúc đẩy phát triển kinh tế bền vững và hỗ trợ nhóm yếu thế.
 
 ---
+
+## Demo kết quả
+
+**Data 2018**
+<img width="886" height="865" alt="image" src="https://github.com/user-attachments/assets/dc90d140-4c43-4f28-a50e-d10cc2053a55" />
+<img width="886" height="687" alt="image" src="https://github.com/user-attachments/assets/aeafc529-d9c4-4953-931e-f2c657ba6f23" />
+**Data 2020**
+<img width="886" height="856" alt="image" src="https://github.com/user-attachments/assets/d087c03d-a650-4f1c-9fbd-6004f5ca0487" />
+<img width="886" height="694" alt="image" src="https://github.com/user-attachments/assets/0f70dd47-5128-4549-9143-e4db8ff807f3" />
+
+
+
 
 
 
